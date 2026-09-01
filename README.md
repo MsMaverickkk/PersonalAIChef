@@ -5,7 +5,7 @@ This includes a frontend built on streamlit or Gradio
 
 To-do
 
-Build chat interface </br>
+Build chat interface with uuipath/stream</br>
 Store memory of the conversation </br>
 Introduce CV library to capture picture of ingredients </br>
 
